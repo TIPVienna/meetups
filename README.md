@@ -27,6 +27,6 @@ The meetup is currently held in German language, but might consider English pres
 | 1    | 2019-10-03 | Artificial Intelligence – quo vadis?  |[link](https://github.com/TIPVienna/meetups/tree/master/events/event_1)      |          |        | [link](https://www.meetup.com/Technologietrends-und-Innovation-fur-die-Praxis/events/263829460/)  |
 | 2    | 2019-12-09 |AI und Recht & Natural Language Processing im Justiz Kontext  |[link](https://github.com/TIPVienna/meetups/tree/master/events/event_2)      |          |        | [link](https://www.meetup.com/Technologietrends-und-Innovation-fur-die-Praxis/events/266050576/)  |
 | 3    | 2020-03-18 |DevOps Value Stream Management für Software Entwicklung & Betrieb  |[link](https://github.com/TIPVienna/meetups/tree/master/events/event_3)      |          |   [Almudena Rodriguez Pardo](https://www.infoq.com/presentations/devops-strategy/?itm_source=infoq&itm_campaign=user_page&itm_medium=link) </p> [Osman Burucu](https://ibm.box.com/s/dt873kcm4zktyun2v3schwhxlrwhietb)      | [link](https://www.meetup.com/Technologietrends-und-Innovation-fur-die-Praxis/events/268169591/)  |
+| 4     | 2020-05-28           |Software Entwicklung für die Cloud - Architektur, Konzepte und Werkzeuge                                       |          |       |  |
 |      |            |                                       |          |       |  |
-
 
