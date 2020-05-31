@@ -1,6 +1,6 @@
+<meta name="google-site-verification" content="92gLGBDhV8MggBdpDVnvMzHYSeFpRiyVSUlDOiluvAQ" />
 # Technologietrends und Innovation für die Praxis @ Vienna
 ![Meetup Logo](https://secure.meetupstatic.com/photos/event/6/7/9/4/600_483746516.jpeg)
-<meta name="google-site-verification" content="92gLGBDhV8MggBdpDVnvMzHYSeFpRiyVSUlDOiluvAQ" />
 
 ## Overview
 
